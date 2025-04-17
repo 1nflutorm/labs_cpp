@@ -92,4 +92,6 @@ int main()
         
         std::cout << (dotIn ? dotInMessage : dotOutMessage);
     }
+
+    return 0;
 }
